@@ -1,2 +1,0 @@
-# PolimerosL
-Pagina web
